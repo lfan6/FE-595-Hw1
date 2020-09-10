@@ -1,6 +1,5 @@
-# Lucas Fan
+# Alex Galli
 # FE-595 Python Refresher
-# Create and Display the graph of one period (0 to 2pi) of the sine and cosine functions
 
 # Importing Pacakges
 import numpy as np
